@@ -59,6 +59,9 @@
 <p>This project is deployed live using <strong>Render</strong> cloud platform.</p>
 <p>Development and testing were done in <strong>GitHub Codespaces</strong>, providing a consistent cloud-based dev environment.</p>
 
+<h2>Learning Resource</h2>
+<a href="https://www.youtube.com/watch?v=rgr_aCg-338">Learn how to build and deploy a complete ML application in 60 minutes</a>
+
 <h2>✅ Sample Inputs</h2>
 <h3>Spam Email:</h3>
 <pre>
